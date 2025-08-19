@@ -1,2 +1,11 @@
-# Skill_System_Test_Project
-Testing a third person skill system in a project
+# Skill\_System\_Test\_Project
+
+
+# Ability Controls:
+
+1. Dash - Left Shift
+2. Force(Pushes Interactable Objects) - Left Mouse Click
+3. Invisibility - Left Alt
+
+
+
